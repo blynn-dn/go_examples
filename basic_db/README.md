@@ -1,5 +1,5 @@
-# go_postgres
-go postgress example
+# basic_db
+A basic db/sql example using postgres.
 
 ## Setup postgres DB
 <details>
